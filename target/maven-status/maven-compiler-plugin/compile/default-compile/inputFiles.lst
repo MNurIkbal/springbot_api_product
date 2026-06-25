@@ -1,6 +1,13 @@
+D:\testing\testing\src\main\java\com\example\testing\service\JwtService.java
+D:\testing\testing\src\main\java\com\example\testing\repository\UserRepository.java
+D:\testing\testing\src\main\java\com\example\testing\TestingApplication.java
+D:\testing\testing\src\main\java\com\example\testing\entity\Product.java
+D:\testing\testing\src\main\java\com\example\testing\config\AppConfig.java
+D:\testing\testing\src\main\java\com\example\testing\entity\User.java
 D:\testing\testing\src\main\java\com\example\testing\repository\ProductRepository.java
+D:\testing\testing\src\main\java\com\example\testing\service\AuthService.java
 D:\testing\testing\src\main\java\com\example\testing\controller\HomeController.java
 D:\testing\testing\src\main\java\com\example\testing\controller\ProductController.java
-D:\testing\testing\src\main\java\com\example\testing\TestingApplication.java
 D:\testing\testing\src\main\java\com\example\testing\service\ProductService.java
-D:\testing\testing\src\main\java\com\example\testing\entity\Product.java
+D:\testing\testing\src\main\java\com\example\testing\controller\AuthController.java
+D:\testing\testing\src\main\java\com\example\testing\config\SecurityConfig.java

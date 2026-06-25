@@ -1,6 +1,13 @@
 com\example\testing\controller\ProductController.class
-com\example\testing\service\ProductService.class
+com\example\testing\entity\User.class
+com\example\testing\service\AuthService.class
+com\example\testing\config\AppConfig.class
+com\example\testing\config\SecurityConfig.class
 com\example\testing\entity\Product.class
-com\example\testing\TestingApplication.class
 com\example\testing\controller\HomeController.class
+com\example\testing\service\JwtService.class
 com\example\testing\repository\ProductRepository.class
+com\example\testing\service\ProductService.class
+com\example\testing\controller\AuthController.class
+com\example\testing\repository\UserRepository.class
+com\example\testing\TestingApplication.class
