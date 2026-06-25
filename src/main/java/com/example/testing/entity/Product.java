@@ -14,7 +14,6 @@ public class Product {
     private Integer qty;
     private String keterangan;
 
-    // getter setter
     public Long getId() { return id; }
 
     public String getNama() { return nama; }
