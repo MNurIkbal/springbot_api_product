@@ -1,0 +1,6 @@
+com\example\testing\controller\ProductController.class
+com\example\testing\service\ProductService.class
+com\example\testing\entity\Product.class
+com\example\testing\TestingApplication.class
+com\example\testing\controller\HomeController.class
+com\example\testing\repository\ProductRepository.class
